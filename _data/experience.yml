@@ -2,7 +2,7 @@
 
 - company: "Işık University"
   position: "Research Assistant"
-  duration: "2019 – Present · Istanbul, Türkiye"
+  duration: "2019 – Present"
   summary: >
     Delivered theoretical and practical lectures at undergraduate and graduate levels; actively engaged
     in student advising, mentoring, and academic guidance.
@@ -15,7 +15,7 @@
 
 - company: "TÜBİTAK"
   position: "Ph.D. Candidate Researcher"
-  duration: "2023 – Present · Istanbul, Türkiye"
+  duration: "2023 – Present"
   summary: >
     Conducting design and development studies within the scope of the SÜİT program, focusing on innovative
     solutions for sustainable and smart city infrastructures.
@@ -28,7 +28,7 @@
 
 - company: "Işık University"
   position: "Academic Assistant"
-  duration: "2017 – 2019 · Istanbul, Türkiye"
+  duration: "2017 – 2019"
   summary: >
     Assisted in course content development, exam preparation, and student support activities, ensuring effective
     delivery of academic programs.
@@ -40,7 +40,7 @@
 
 - company: "Bahçeşehir University & Wissen Academy"
   position: "Software, Database & ERP Systems Intern Engineer"
-  duration: "2019 – 2020 · Istanbul, Türkiye"
+  duration: "2019 – 2020"
   summary: >
     Developed applications using C# .NET, HTML5, JavaScript, AngularJS, ASP.Net MVC, applying OOP, SOLID principles,
     and design patterns in real projects.
@@ -51,7 +51,7 @@
 
 - company: "Dalgakıran Compressor Inc."
   position: "R&D Engineer Intern"
-  duration: "06/2017 – 07/2017 · Istanbul, Türkiye"
+  duration: "06/2017 – 07/2017"
   summary: >
     Contributed to engineering processes in new product development projects by performing design studies, performance tests, and technical analyses.
     <ul class="resume-item-list">
@@ -61,7 +61,7 @@
 
 - company: "CNK Aviation Industry Inc."
   position: "Production Engineer Intern"
-  duration: "05/2016 – 06/2016 · Istanbul, Türkiye"
+  duration: "05/2016 – 06/2016"
   summary: >
     Conducted performance, quality control, and efficiency analyses of machinery and processes on the production line.
     <ul class="resume-item-list">
