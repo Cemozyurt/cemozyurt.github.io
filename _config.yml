@@ -23,37 +23,7 @@ resume_contact_address:         "Istanbul, Türkiye"
 resume_header_contact_info:     "Istanbul • kaplanbugra.turkey@gmail.com • bugrakaplan.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am currently pursuing my Ph.D. in Mechanical Engineering at Istanbul Technical University (GPA: 3.81/4.00). I graduated with High Honors from the M.Sc. program in Mechanical Engineering – Thermo-Fluid Sciences at Istanbul Technical University (GPA: 3.690/4.00). Prior to that, I earned dual bachelor’s degrees in Mechanical Engineering (GPA: 3.85/4.00) and Civil Engineering (GPA: 3.87/4.00) at FMV Işık University, where I was recognized as the Top Graduate of the Faculty of Engineering.
-
-Since 2020, I have been working as a Research Assistant in the Department of Mechanical Engineering at FMV Işık University, where I contribute to both undergraduate and graduate-level courses through theoretical and practical instruction. Additionally, I am the founder of Kaplan Engineering, providing consultancy services across Turkey and abroad.
-
-My research focuses on renewable energy systems, computational fluid dynamics (CFD), big data analytics, and machine learning models. I actively conduct engineering design, data analytics, and optimization studies using Python, SolidWorks, ANSYS, AutoCAD, and Revit.
-
-Beyond engineering, I collaborate with medical professionals on multidisciplinary projects, developing AI-driven and data analytics-based healthcare applications. These initiatives are rooted in engineering principles and bridge the gap between technology and medicine. Due to confidentiality agreements, only a selection of my projects is available on my GitHub profile.
-
-Selected Contributions to Medical Literature
-
-I) Cancer Cell Classification and Prediction (Physics-Informed Machine Learning)
-
-II) Detection of Heart Diseases and Anomalies (Predictive Care – ML Models on PDS)
-
-III) Prediction and Diagnosis of Renal Dysfunction (PIML)
-
-IV) AI-Assisted Artificial Heart Support Device Design and Manufacturing (National & International Patent Studies)
-
-Selected Contributions to Engineering Literature
-
-I) Machine Learning-Based Wind Turbine Power Output Prediction via Multiple Regression Models (PIML)
-
-II) Design and Manufacturing of a Vertical Axis Wind Turbine for IoT-Integrated On-Campus Renewable Energy Generation
-
-III) Design and Development of a Subsonic Open-Loop Wind Tunnel for Aerodynamic Testing
-
-IV) Wake Effect Modeling and Power Prediction in Wind Farms Using Machine Learning and CFD
-
-PIML-Based Wind Farm Micrositing and Layout Optimization
-
-My ultimate goal is to develop innovative diagnostic and support systems at the intersection of engineering and data science, focusing on field-validated energy solutions and next-generation healthcare technologies.</p>"
+resume_header_intro: "<p>Ph.D. Candidate Research Assistant, Mechanical & Civil Engineer specializing in Renewable Energy Systems, Computational Fluid Dynamics (CFD), and AI-driven solutions. My research integrates Machine Learning, Big Data Analytics, and Physics-Informed Modeling for predictive maintenance, energy forecasting, and smart city infrastructures. With a strong background in academic publishing, interdisciplinary collaboration, and applied research, I develop field-validated models that bridge engineering principles with next-generation data science and artificial intelligence applications.</p>"
 
 resume_looking_for_work:        "yes"
 
