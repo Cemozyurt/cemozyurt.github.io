@@ -1,16 +1,92 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: "SÜİT - Advanced Technologies Platform for Sustainable Cities"
+  role: "Ph.D. Candidate Researcher"
+  duration: "2025"
+  # url: "https://github.com/Kaplan3458"
+  description: >
+    The SÜİT Platform develops innovative technologies for smart city infrastructures in line with the European Green Deal.
+    Research areas include energy-efficient and scalable IoT communication systems, carbon-free and low-carbon energy
+    production, smart grid management, electric vehicles and smart transportation, spatial data analytics for building
+    energy efficiency, and ecosystem monitoring and management.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: "VASCULAB - Vascular Simulation and Hemodynamic Analysis Laboratory"
+  role: "Researcher"
+  duration: "2024"
+  description: >
+    Conducted with a university hospital, this project examined physiological parameters affecting blood flow and
+    intravascular pressure during bypass surgeries. Advanced computational models replicated hemodynamic conditions,
+    systematically analyzing vessel diameter, flow rate, and blood viscosity in relation to outcomes. Provided critical
+    insights for optimizing surgical procedures and minimizing risks.
+
+- project: "AEROCAST - Advanced Energy Regression & Optimization for Computational Analysis of Sustainable Turbines"
+  role: "Researcher"
+  duration: "2023"
+  description: >
+    Predicted wind turbine energy generation using machine learning algorithms including KNN, Random Forest,
+    Decision Tree, and XGBoost. High-resolution turbine data (wind speed, direction, temperature, operational
+    parameters) were analyzed. Benchmarked predictive performance for short- and mid-term forecasting and developed
+    an ensemble model to improve reliability of renewable energy forecasts.
+
+- project: "PREDIAB - Predictive Analytics for Diabetes via Ensemble Methods"
+  role: "Researcher"
+  duration: "2023"
+  description: >
+    Investigated classification performance of ensemble algorithms (Voting, Random Forest, Bagging, Gradient Boosting)
+    for early diagnosis of diabetes. Patient data from a university hospital were analyzed. Performance evaluated in
+    terms of accuracy, precision, and recall, contributing to AI-driven healthcare decision support systems.
+
+- project: "HEMERA - Cancer Cell Classification"
+  role: "Researcher"
+  duration: "2022"
+  description: >
+    Evaluated performance of KNN, SVM, Decision Tree, and Naive Bayes algorithms in classifying cancer cells by type.
+    Conducted with a university hospital, this study improved AI-based decision support systems for rare and advanced
+    cancers, enhancing effectiveness of computational oncology.
+
+- project: "HERA - Heritage Energy Retrofit Analysis"
+  role: "Researcher"
+  duration: "2021"
+  description: >
+    Analyzed energy efficiency improvements for traditional housing through case study of the Özdoğan House.
+    Evaluated passive strategies (insulation, material selection, window placement) and active solutions (renewables,
+    modern HVAC systems). Demonstrated significant improvements in efficiency while preserving cultural heritage.
+
+- project: "ONCAS - Oncology Classification and Analysis System"
+  role: "Researcher"
+  duration: "2021"
+  description: >
+    Conducted comprehensive study of breast cancer cell classification using KNN, PCA+KNN, and NCA+KNN. Collaborated
+    with a university hospital. Compared models on clinical datasets, providing innovative support for early diagnosis
+    in oncology.
+
+- project: "DRIVEFF - Driving Efficiency Forecasting with Regression Models"
+  role: "Researcher"
+  duration: "2020"
+  description: >
+    Predicted vehicle fuel consumption using regression algorithms (Lasso, Ridge, ElasticNet, XGBoost). Highlighted
+    machine learning’s potential to improve energy efficiency in transportation and contribute to sustainable mobility.
+
+- project: "SART - Subsonic Open-Circuit Wind Tunnel Design"
+  role: "Researcher"
+  duration: "2019"
+  description: >
+    Designed a subsonic open-circuit wind tunnel for aerodynamic research. Optimized system for flow control, pressure
+    measurements, and aerodynamic force analysis. Provided an infrastructure for educational and validation studies in
+    aerospace and automotive research.
+
+- project: "RÜZGEM - Vertical-Axis Wind Turbine Project"
+  role: "Researcher"
+  duration: "2018"
+  description: >
+    Designed and manufactured a vertical-axis wind turbine (VAWT) to supply laboratory buildings with renewable energy.
+    Ensured high efficiency and continuous generation even at low wind speeds. Demonstrated applicability of localized
+    renewable energy production for university campuses.
+
+- project: "TARIM - IoT-Integrated Drone Design for Smart Agriculture"
+  role: "Researcher"
+  duration: "2017"
+  description: >
+    Developed a drone prototype with IoT-based sensors and autonomous control systems for agriculture. Enabled
+    real-time monitoring of plant health, soil moisture, temperature, irrigation needs, and disease indicators.
+    Data transmitted to a cloud platform for analysis, providing decision support for farmers.
