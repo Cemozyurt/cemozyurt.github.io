@@ -1,13 +1,31 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: "Doctor of Philosophy - Ph.D. / Mechanical Engineering GPA: 3.81/4.00 (High Honors, in progress)"
+  uni: "Istanbul Technical University"
+  year: "2023 - Present"
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: "High Honors distinction during Ph.D. studies"
+  summary: "Currently continuing Ph.D. program with High Honors."
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: "Master of Science - M.Sc. / Mechanical Engineering GPA: 3.69/4.00 (High Honors)"
+  uni: "Istanbul Technical University"
+  year: "2020 - 2023"
+  awards:
+    - award: "High Honors distinction"
+  summary: "Successfully completed and graduated with High Honors."
+
+- degree: "Bachelor of Science - B.Sc. / Civil Engineering (100% Scholarship) GPA: 3.87/4.00"
+  uni: "F.M.V. Işık University"
+  year: "2016 - 2019"
+  award: "Valedictorian, Civil Engineering Department of F.M.V. Işık University"
+  awards:
+    - award: "Valedictorian, Civil Engineering Department of F.M.V. Işık University"
+  summary: ""
+
+- degree: "Bachelor of Science - B.Sc. / Mechanical Engineering (100% Scholarship) GPA: 3.85/4.00"
+  uni: "F.M.V. Işık University"
+  year: "2014 - 2018"
+  award: "Valedictorian, Faculty of Engineering, F.M.V. Işık University"
+  awards:
+    - award: "Valedictorian, Faculty of Engineering, F.M.V. Işık University"
+    - award: "Valedictorian, Mechanical Engineering Department of F.M.V. Işık University"
+  summary: ""
