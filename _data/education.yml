@@ -1,31 +1,31 @@
 # Degree
-- degree: "Doctor of Philosophy - Ph.D. / Mechanical Engineering GPA: 3.81/4.00 (High Honors, in progress)"
+- degree: "Doctor of Philosophy - Ph.D. / Mechanical Engineering GPA: 3.81/4.00"
   uni: "Istanbul Technical University"
   year: "2023 - Present"
   awards:
-    - award: "High Honors distinction during Ph.D. studies"
+    - award: "Awards: High Honors distinction during Ph.D. studies"
   summary: "Currently continuing Ph.D. program with High Honors."
 
-- degree: "Master of Science - M.Sc. / Mechanical Engineering GPA: 3.69/4.00 (High Honors)"
+- degree: "Master of Science - M.Sc. / Mechanical Engineering GPA: 3.69/4.00"
   uni: "Istanbul Technical University"
   year: "2020 - 2023"
   awards:
-    - award: "High Honors distinction"
+    - award: "Awards: High Honors distinction"
   summary: "Successfully completed and graduated with High Honors."
 
 - degree: "Bachelor of Science - B.Sc. / Civil Engineering (100% Scholarship) GPA: 3.87/4.00"
   uni: "F.M.V. Işık University"
   year: "2016 - 2019"
-  award: "Valedictorian, Civil Engineering Department of F.M.V. Işık University"
+  award: "Awards: Valedictorian, Civil Engineering Department of F.M.V. Işık University"
   awards:
-    - award: "Valedictorian, Civil Engineering Department of F.M.V. Işık University"
+    - award: "Awards: Valedictorian, Civil Engineering Department of F.M.V. Işık University"
   summary: ""
 
 - degree: "Bachelor of Science - B.Sc. / Mechanical Engineering (100% Scholarship) GPA: 3.85/4.00"
   uni: "F.M.V. Işık University"
   year: "2014 - 2018"
-  award: "Valedictorian, Faculty of Engineering, F.M.V. Işık University"
+  award: "Awards: Valedictorian, Faculty of Engineering, F.M.V. Işık University"
   awards:
-    - award: "Valedictorian, Faculty of Engineering, F.M.V. Işık University"
-    - award: "Valedictorian, Mechanical Engineering Department of F.M.V. Işık University"
+    - award: "Awards: Valedictorian, Faculty of Engineering, F.M.V. Işık University"
+    - award: "Awards: Valedictorian, Mechanical Engineering Department of F.M.V. Işık University"
   summary: ""
