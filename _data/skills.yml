@@ -1,12 +1,28 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: "Languages"
+  description: "Turkish (Native), English (Advanced)"
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: "Programming Languages"
+  description: "Python, C#, JavaScript, SQL, MATLAB, OpenFOAM"
+
+- skill: "Developer Tools"
+  description: "Visual Studio, Jupyter Notebook, Git/GitHub, Anaconda, MS SQL Server Management Studio, SolidWorks, ANSYS, SAP2000, MATLAB Simulink, AutoCAD, Revit"
+
+- skill: "Frameworks"
+  description: "Scikit-learn, TensorFlow, Keras, PyTorch (basic), ASP.NET MVC, Bootstrap, Entity Framework"
+
+- skill: "Cloud/Databases"
+  description: "MS-SQL, Azure (basic ML services), Dynamics 365 (AX, CRM, F&O)"
+
+- skill: "Soft Skills"
+  description: "Academic research & publishing, scientific writing, interdisciplinary collaboration, project management, data-driven problem solving, mentoring & teaching, analytical thinking, adaptability"
+
+- skill: "Personal Interest"
+  description: "Nature exploration, hiking & landscape photography; art exhibitions, opera, ballet & theatre; poetry, literature & creative writing; discovering new places, cultures & innovative ideas; engineering tools & technological innovations"
+
+- skill: "Coursework"
+  description: "Computational Fluid Dynamics (CFD), Advanced Heat Transfer, Advanced Fluid Mechanics & Dynamics, Advanced Thermodynamics, Machine Learning, Artificial Intelligence for Healthcare & Renewable Energy Systems, Structural Analysis, Smart City Technologies, Sustainability"
+
+- skill: "Areas of Interest"
+  description: "Renewable Energy (Wind & Solar), Computational Fluid Dynamics, Machine Learning & Artificial Intelligence, Smart Cities & Sustainable Infrastructure, Biomedical Engineering, Energy Forecasting & Optimization, IoT Systems, Advanced Manufacturing"
