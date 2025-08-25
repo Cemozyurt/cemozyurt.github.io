@@ -36,6 +36,8 @@ resume_section_recognition:     true
 resume_section_links:           false
 resume_section_associations:    true
 # resume_section_interests:     true
+include:
+  - _assets
 
 # Social links
 resume_social_links:
