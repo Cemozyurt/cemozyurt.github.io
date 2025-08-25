@@ -13,6 +13,9 @@ resume_avatar:                  "true"
 resume_name:                    "Buğra Kaplan"
 resume_title:                   "Ph.D. Candidate Research Assistant | Mechanical Engineer |Civil Engineer"
 
+url: "https://bugrakaplan.com"   # ← EKLE
+baseurl: ""                      # ← EKLE (kök için boş)
+
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "kaplanbugra.turkey@gmail.com"
 
