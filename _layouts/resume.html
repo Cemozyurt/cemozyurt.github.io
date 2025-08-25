@@ -33,31 +33,30 @@
         </div>
 
         <!-- INLINE STYLES -->
-       <style>
-  .avatar {
-    width: 220px;          /* genişlik */
-    height: 220px;         /* yükseklik - kare! */
-    border-radius: 50%;    /* dairesel */
-    object-fit: cover;     /* resmi kırpmadan ortala */
-    display: block;
-    margin: 0 auto 16px;   /* ortala */
-    box-shadow: 0 8px 24px rgba(0,0,0,.12);
-    border: 3px solid rgba(255,255,255,.8);
-  }
+        <style>
+          /* Buttons side-by-side */
+          .button-group{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+          .button-group .contact-button{display:inline-block;margin:0}
 
-  @media (max-width: 480px) {
-    .avatar {
-      width: 160px;
-      height: 160px;
-    }
-  }
-</style>
-
+          /* FORCE SQUARE AVATAR */
+          .avatar{
+            width:220px;
+            height:220px;           /* equal -> square */
+            border-radius:0 !important;  /* square corners */
+            object-fit:cover;       /* crop to square nicely */
+            display:block;
+            margin:0 auto 16px;
+            box-shadow:0 8px 24px rgba(0,0,0,.12);
+            border:3px solid rgba(255,255,255,.8);
+          }
+          @media (max-width:480px){
+            .avatar{width:160px;height:160px;}
+          }
+        </style>
 
         {% if site.resume_looking_for_work == 'yes' %}
           <div class="button-group no-print">
             <a href="mailto:{{ site.resume_contact_email }}" class="contact-button" itemprop="email">Contact me</a>
-            <!-- If you move the file to /assets, change _assets to assets below -->
             <a href="{{ site.baseurl }}/_assets/BugraCV.pdf" class="contact-button" download>Download CV</a>
           </div>
         {% elsif site.resume_looking_for_work == 'no' %}
