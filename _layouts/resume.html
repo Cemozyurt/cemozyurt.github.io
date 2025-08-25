@@ -32,16 +32,21 @@
           {{ site.resume_header_intro }}
         </div>
 
+        <!-- INLINE STYLE to keep buttons side-by-side -->
+        <style>
+          .button-group{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+          .button-group .contact-button{display:inline-block;margin:0}
+        </style>
+
         {% if site.resume_looking_for_work == 'yes' %}
-  <div class="button-group no-print">
-    <a href="mailto:{{ site.resume_contact_email }}" class="contact-button" itemprop="email">Contact me</a>
-    <a href="{{ site.baseurl }}/assets/BugraCV.pdf" class="contact-button" download>Download CV</a>
-  </div>
-{% elsif site.resume_looking_for_work == 'no' %}
-  <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
-{% endif %}
-
-
+          <div class="button-group no-print">
+            <a href="mailto:{{ site.resume_contact_email }}" class="contact-button" itemprop="email">Contact me</a>
+            <!-- If you move the file to /assets, change _assets to assets below -->
+            <a href="{{ site.baseurl }}/_assets/BugraCV.pdf" class="contact-button" download>Download CV</a>
+          </div>
+        {% elsif site.resume_looking_for_work == 'no' %}
+          <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
+        {% endif %}
 
       </header>
 
@@ -69,7 +74,6 @@
         </div>
         {% endfor %}
       </section>
-      <!-- end Education -->
       {% endif %}
 
       {% if site.resume_section_experience %}
@@ -86,9 +90,7 @@
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div>
         {% endfor %}
-
       </section>
-      <!-- end Experience -->
       {% endif %}
 
       {% if site.resume_section_projects %}
@@ -108,9 +110,7 @@
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %}
-
       </section>
-      <!-- end Projects -->
       {% endif %}
 
       {% if site.resume_section_recognition %}
@@ -127,9 +127,7 @@
           <p class="resume-item-copy">{{ recognition.summary }}</p>
         </div>
         {% endfor %}
-
       </section>
-      <!-- end Awards -->
       {% endif %}
 
       {% if site.resume_section_skills %}
@@ -145,7 +143,6 @@
         </div>
         {% endfor %}
       </section>
-      <!-- end Technical Skills -->
       {% endif %}
 
       {% if site.resume_section_associations %}
@@ -163,11 +160,9 @@
         </div>
         {% endfor %}
       </section>
-      <!-- end Associations -->
       {% endif %}
 
       {% if site.resume_section_interests %}
-      <!-- (Optional) Interests: left at the end -->
       <section class="content-section">
         <header class="section-header">
           <h2>Outside Interests</h2>
@@ -182,26 +177,7 @@
       </section>
       {% endif %}
 
-      
-      {% if site.resume_section_links %}
-      <!-- begin Links -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Additional Links</h2>
-        </header>
-        <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for link in site.data.links %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      {% endif %}
-      
-
       {% if site.resume_print_social_links %}
-      <!-- begin Print Social Links -->
       <section class="content-section print-only">
         <header class="section-header">
           <h2>Social Links</h2>
@@ -210,10 +186,7 @@
           {% include print-social-links.html %}
         </div>
       </section>
-      <!-- end Print Social Links -->
       {% endif %}
-
-      
 
     </div>
 
