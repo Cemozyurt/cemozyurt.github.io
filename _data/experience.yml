@@ -1,10 +1,7 @@
 # Jobs
 
-# Jobs
-
 - company: "Durko Çevre Enerji Tekniği A.Ş."
-  position: "Sales Engineer"
-  duration: "01/2022 – Present"
+  position: "Sales Engineer <span style='float:right'>01/2022 – Present</span>"
   summary: >
     <div align="justify">
     Managing sales operations and customer relations in the energy and environmental technologies sector.
@@ -16,8 +13,7 @@
     </div>
 
 - company: "Tuana Mühendislik"
-  position: "Sales & Purchasing & Digital Marketing Specialist"
-  duration: "11/2020 – 01/2022"
+  position: "Sales & Purchasing & Digital Marketing Specialist <span style='float:right'>11/2020 – 01/2022</span>"
   summary: >
     <div align="justify">
     Oversaw purchasing operations, supplier negotiations, and digital marketing activities to support business growth.
@@ -30,8 +26,7 @@
     </div>
 
 - company: "İzdemir Enerji Elektrik Üretim A.Ş."
-  position: "Intern Engineer"
-  duration: "07/2017 – 08/2017"
+  position: "Intern Engineer <span style='float:right'>07/2017 – 08/2017</span>"
   summary: >
     <div align="justify">
     Maintenance and repair works at the main control center and gas insulated switchyards in a thermal power plant.
@@ -42,8 +37,7 @@
     </div>
 
 - company: "Park Termik Elektrik Sanayi A.Ş."
-  position: "Intern Engineer"
-  duration: "08/2015 – 09/2015"
+  position: "Intern Engineer <span style='float:right'>08/2015 – 09/2015</span>"
   summary: >
     <div align="justify">
     Maintenance and transformer operations in a thermal power plant.
@@ -54,8 +48,7 @@
     </div>
 
 - company: "Setcard"
-  position: "POS Device Technician"
-  duration: "07/2012 – 08/2012"
+  position: "POS Device Technician <span style='float:right'>07/2012 – 08/2012</span>"
   summary: >
     <div align="justify">
     Field technician role focused on updating and upgrading POS devices in customer locations across Istanbul.
