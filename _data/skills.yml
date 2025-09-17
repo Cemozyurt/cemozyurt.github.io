@@ -1,28 +1,27 @@
 # Skills
 
+# Skills
+
+- skill: "Programming"
+  description: "C# (Intermediate)"
+
+- skill: "Engineering Software"
+  description: "NI LabVIEW, PowerWorld Simulator, NI Multisim, Proteus ISIS/Ares, DIALux, Keil uVision"
+
+- skill: "Design Tools"
+  description: "AutoCAD, SolidWorks (basic)"
+
+- skill: "Office Productivity"
+  description: "Microsoft Word, Excel, PowerPoint, Outlook"
+
+- skill: "Graphics/Video Editing"
+  description: "Adobe Photoshop, Lightroom, Premiere Pro, Sony Vegas Pro, Camtasia"
+
+- skill: "ERP/CRM Platforms"
+  description: "Zirve, Logo CRM/Tiger"
+
+- skill: "Digital Marketing"
+  description: "SEO, Google Ads, Facebook Business Manager, Instagram Ads"
+
 - skill: "Languages"
-  description: "Turkish (Native), English (Advanced)"
-
-- skill: "Programming Languages"
-  description: "Python, C#, JavaScript, SQL, MATLAB, OpenFOAM"
-
-- skill: "Developer Tools"
-  description: "Visual Studio, Jupyter Notebook, Git/GitHub, Anaconda, MS SQL Server Management Studio, SolidWorks, ANSYS, SAP2000, MATLAB Simulink, AutoCAD, Revit"
-
-- skill: "Frameworks"
-  description: "Scikit-learn, TensorFlow, Keras, PyTorch (basic), ASP.NET MVC, Bootstrap, Entity Framework"
-
-- skill: "Cloud/Databases"
-  description: "MS-SQL, Azure (basic ML services), Dynamics 365 (AX, CRM, F&O)"
-
-- skill: "Soft Skills"
-  description: "Academic research & publishing, scientific writing, interdisciplinary collaboration, project management, data-driven problem solving, mentoring & teaching, analytical thinking, adaptability"
-
-- skill: "Personal Interest"
-  description: "Nature exploration, hiking & landscape photography; art exhibitions, opera, ballet & theatre; poetry, literature & creative writing; discovering new places, cultures & innovative ideas; engineering tools & technological innovations"
-
-- skill: "Coursework"
-  description: "Computational Fluid Dynamics (CFD), Advanced Heat Transfer, Advanced Fluid Mechanics & Dynamics, Advanced Thermodynamics, Machine Learning, Artificial Intelligence for Healthcare & Renewable Energy Systems, Structural Analysis, Smart City Technologies, Sustainability"
-
-- skill: "Areas of Interest"
-  description: "Renewable Energy (Wind & Solar), Computational Fluid Dynamics, Machine Learning & Artificial Intelligence, Smart Cities & Sustainable Infrastructure, Biomedical Engineering, Energy Forecasting & Optimization, IoT Systems, Advanced Manufacturing"
+  description: "English (B1), German (A1)"
