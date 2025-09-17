@@ -44,8 +44,8 @@ include:
 
 # Social links
 resume_social_links:
-  resume_github_url:            "https://github.com/Kaplan3458"
-  resume_linkedin_url:          "https://www.linkedin.com/in/buğra-kaplan-a349b1169/"
+  resume_github_url:            "https://github.com/Cemozyurt"
+  resume_linkedin_url:          "https://www.linkedin.com/in/cem-%C3%B6zyurt-89254a1b0/"
   resume_website_url:           "https://bugrakaplan.com"
 resume_print_social_links:      true
 
