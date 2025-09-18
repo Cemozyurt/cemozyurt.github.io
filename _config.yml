@@ -17,14 +17,14 @@ url: "https://cemozyurt.com"   # site ana adresi
 baseurl: ""                            # kök için boş bırak
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "cemozyurtagency@gmail.com"
+resume_contact_email:           "cem.ozyurt@windowslive.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "Will be provided if required"
 resume_contact_address:         "Istanbul, Türkiye"
 
 # header iletişim satırı
-resume_header_contact_info:     "Istanbul • cemozyurtagency@gmail.com • cemozyurt.github.io"
+resume_header_contact_info:     "Istanbul • cem.ozyurt@windowslive.com • cemozyurt.com"
 display_header_contact_info:    "true"
 
 # About (tek paragraf, iki yana yaslı)
